@@ -1,5 +1,5 @@
 ### Olá! Eu sou Murilo Henrique Carrijo Paulino 👋
-#### Analista de controladoria em transição de carreira.
+#### - 🔭 Atualmente estou em transição de carreira do setor administrativo para o mercado de desenvolvimento. 
 
 <div align="center">
   <a href="https://github.com/Murilo-Carrijo">
