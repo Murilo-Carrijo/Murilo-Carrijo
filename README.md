@@ -14,4 +14,4 @@
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo-carrijo&theme=gotham&show_icons=true&locale=en&layout=compact" alt="murilo-carrijo" /></p>
 
-<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-carrijo&show_icons=true?theme=react&locale=en" alt="murilo-carrijo" /></p>
+<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilo-carrijo&theme=gotham&show_icons=true?theme=react&locale=en" alt="murilo-carrijo" /></p>
